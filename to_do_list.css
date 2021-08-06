@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(120deg, #f6d365, #fda085);
+    color: rgb(99, 4, 4);
+    font-family: "Poppins", sans-serif;
+}
+
+.width-search {
+    width: 100%;
+}
+
+.positionOfTextandIcon {
+    display: inline-flex;
+    align-items: center;
+}
+
+.mar {
+    margin-left: 5px;
+}
